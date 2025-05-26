@@ -1,0 +1,100 @@
+/* .heroSection {
+  background: #fff;
+  border-radius: 0 0 40px 40px;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.05);
+  padding: 6rem 2rem 4rem 2rem;
+  text-align: center;
+  position: relative;
+}
+
+.heroContent {
+  max-width: 900px;
+  margin: 0 auto;
+} */
+
+.heroSection {
+  background: #fff;
+  border-radius: 0 0 40px 40px;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.05);
+  padding: 2rem 2rem 3rem 2rem;
+  text-align: center;
+  position: relative;
+}
+
+.heroContent {
+  margin-top: 2rem; /* Optional: to give space after navbar */
+}
+
+
+.greeting {
+  font-size: 2.5rem;
+  color: #ffa500;
+  font-weight: 700;
+  display: block;
+  line-height: 1.2;
+}
+
+.heroContent h1 {
+  font-size: 5rem;
+  font-weight: 800;
+  margin: 0.5rem 0;
+  line-height: 1.2;
+}
+
+.highlight {
+  color: #ffa500;
+}
+
+.heroRole {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #333;
+  margin: 1rem 0 2rem 0;
+}
+
+.heroDescription {
+  margin: 1rem auto 2rem auto;
+  color: #555;
+  font-size: 1.2rem;
+  max-width: 650px;
+  line-height: 1.6;
+}
+
+.heroButtons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.ctaButton {
+  padding: 0.9rem 2.2rem;
+  border-radius: 24px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 12px rgba(255, 165, 0, 0.15);
+  border: none;
+  cursor: pointer;
+}
+
+.primary {
+  background: #ffa500;
+  color: #fff;
+}
+
+.primary:hover {
+  background: #ff8800;
+}
+
+.secondary {
+  background: #fff;
+  color: #ffa500;
+  border: 2px solid #ffa500;
+}
+
+.secondary:hover {
+  background: #ffa500;
+  color: #fff;
+}
