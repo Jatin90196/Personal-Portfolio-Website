@@ -12,8 +12,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ## Tech Stack
 
-- React.js  
-- Node.js (for backend APIs, if applicable)  
+- React.js   
 - CSS  
 
 ## Getting Started
